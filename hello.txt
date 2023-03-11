@@ -6,5 +6,5 @@ Hello World,Hello Git!
 Hello World,Hello Git!
 Hello World,Hello Git!
 Hello World,Hello Git!
-hello Game!
+hello Game!hello Git!
 Hello World,Hello Git!
